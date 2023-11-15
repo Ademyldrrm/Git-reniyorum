@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 akjdhajdh
+=======
+Clonu Deniyorum
+>>>>>>> f3ae3c26b99fb256f9880ebd94b7d982ebbdce48
